@@ -1,0 +1,12 @@
+#+TITLE:  ~OpenCV Record~
+
+
+* Steps
+
+-. download source
+-. unzip
+-. cd opencv directory
+-. mkdir -p build && cd build
+-. cmake ../
+-. make -j8 or cmake --build
+-. sudo make install
